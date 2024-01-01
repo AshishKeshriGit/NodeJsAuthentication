@@ -28,23 +28,23 @@
     
 <h2>🔴HOME</h2> <br>
 
-![home]!![Alt text](<Screenshot (157).png>)
+![Alt text](<Screenshot (157).png>)
 
 <h2>🔴SIGNUP</h2> <br>
 
-![signup]![Alt text](<Screenshot (157).png>)
+![Alt text](<Screenshot (157).png>)
 
 <h2>🔴SIGNIN</h2> <br>
 
-![signIn]!![Alt text](<Screenshot (158).png>)
+![Alt text](<Screenshot (158).png>)
 
 <h2>🔴HOME AFTER SIGNIN</h2> <br>
 
-![homeaftersignin]!![Alt text](<Screenshot (159).png>)
+![Alt text](<Screenshot (159).png>)
 
 <h2>🔴PROFILE</h2> <br>
 
-![profile]!![Alt text](<Screenshot (160).png>)
+![Alt text](<Screenshot (160).png>)
 
 <h2>🔴CHANGE PASSWORD</h2> <br>
 
