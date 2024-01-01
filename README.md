@@ -32,21 +32,21 @@
 
 <h2>🔴SIGNUP</h2> <br>
 
-![signup](https://user-images.githubusercontent.com/76874880/235316209-288405d1-1b6a-449c-a9d7-056e1254810d.PNG)
+![signup]![Alt text](<Screenshot (157).png>)
 
 <h2>🔴SIGNIN</h2> <br>
 
-![signIn](https://user-images.githubusercontent.com/76874880/235316212-f832b6f3-e9b8-4019-bb10-d8b229fd5812.PNG)
+![signIn]![Alt text](<Screenshot (158).png>)
 
 <h2>🔴HOME AFTER SIGNIN</h2> <br>
 
-![homeaftersignin](https://user-images.githubusercontent.com/76874880/235316214-2d249b2b-d3e7-44d1-b830-526669314402.PNG)
+![homeaftersignin]![Alt text](<Screenshot (159).png>)
 
 <h2>🔴PROFILE</h2> <br>
 
-![profile](https://user-images.githubusercontent.com/76874880/235316223-d3d113ee-626a-4478-8911-b49af2bbd8f0.PNG)
+![profile]![Alt text](<Screenshot (160).png>)
 
 <h2>🔴CHANGE PASSWORD</h2> <br>
 
-![changepass](https://user-images.githubusercontent.com/76874880/235316230-d0753997-ce41-4f03-8653-2846a3e4682b.PNG)
+![changepass]![Alt text](<Screenshot (161).png>)
 
