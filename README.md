@@ -50,6 +50,3 @@
 
 ![changepass](https://user-images.githubusercontent.com/76874880/235316230-d0753997-ce41-4f03-8653-2846a3e4682b.PNG)
 
-<h2>🔴DATABASE</h2> <br>
-
-![database](https://user-images.githubusercontent.com/76874880/235316233-681a7c5b-fc66-4b91-896c-39a3330aad8e.PNG)
