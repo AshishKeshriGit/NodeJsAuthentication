@@ -28,7 +28,7 @@
     
 <h2>🔴HOME</h2> <br>
 
-![home](https://user-images.githubusercontent.com/76874880/235316201-9e5937cc-37e5-485a-9aa6-64743a3622bd.PNG)
+![home]![Alt text](<Screenshot (156).png>)
 
 <h2>🔴SIGNUP</h2> <br>
 
