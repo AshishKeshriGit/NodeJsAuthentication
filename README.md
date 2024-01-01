@@ -28,7 +28,7 @@
     
 <h2>🔴HOME</h2> <br>
 
-[Alt text](<Screenshot (156).png>)
+!(<Screenshot (156).png>)!
 
 <h2>🔴SIGNUP</h2> <br>
 
