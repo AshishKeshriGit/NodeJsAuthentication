@@ -48,5 +48,5 @@
 
 <h2>🔴CHANGE PASSWORD</h2> <br>
 
-![changepass]!![Alt text](<Screenshot (161).png>)
+![Alt text](<Screenshot (161).png>)
 
